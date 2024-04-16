@@ -1,0 +1,6 @@
+name: syllables
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - syllables
